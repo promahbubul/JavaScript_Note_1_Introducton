@@ -1,0 +1,33 @@
+# JavaScript
+	1) console.log()
+			- console.log("text");
+	2) Comment
+			- Single Line
+			- Multipule Line
+	3) Data Types
+			- 7 Data Types
+			- String
+			- Number
+			- Boolean
+			- Null
+	4) Arithmetic Operator
+			 - Add +
+			 - Subtract -
+			 - Multiply *
+			 - Divide /
+			 - Reminder %
+	5) Concatination
+			- "Hello" + "Mahbub"
+	6) Properties
+			- .length
+	7) Dot Operator
+			- .
+	8) Methods
+			- toUpperCase()
+			- toLowerCase()
+			-	startsWith()
+			- trim()
+	9) Build-in Objects
+			- Math.random()
+			- Math.floor()
+			- Math.ceil()
